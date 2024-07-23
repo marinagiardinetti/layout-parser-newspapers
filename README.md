@@ -1,5 +1,5 @@
 # layout-parser-newspapers
-Layout Parser notebook Implementation &amp; fine-tuned model for Image detection and extraction (newspapers pages)
+Layout Parser notebook &amp; fine-tuned model for Image detection and extraction (newspapers pages)
 
 Un tutoriel détaillé est disponible ici : https://pictoria.hypotheses.org/2708
 
